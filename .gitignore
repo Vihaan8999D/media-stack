@@ -1,0 +1,7 @@
+radarr/*
+sonarr/
+qbittorrent/
+jellyfin/
+jellyfin-cache/
+nginx/
+tmp.txt
